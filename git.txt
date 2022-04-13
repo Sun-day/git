@@ -1,0 +1,5 @@
+git init  初始化环境
+git config --global user.name "sun"
+git config --global user.eamal "xx@xx"
+
+git status 检查环境配置
